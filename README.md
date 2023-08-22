@@ -52,5 +52,9 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<div align="center">
+  :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dmytro-Yakovenko)](https://git.io/streak-stats)
+</div>
 
 
