@@ -53,8 +53,10 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <div align="center">
-  :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dmytro-Yakovenko)](https://git.io/streak-stats)
+  :fire: My Stats : 
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dmytro-Yakovenko&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmytro-Yakovenko&layout=compact&theme=vision-friendly-dark)](https://github.com/dmytroyakovenko/github-readme-stats)
 </div>
 
 
